@@ -17,4 +17,4 @@ My leetcode solutions
 - [904. Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/description/), [solution](https://github.com/Typhoeus-Wang/leetcode/blob/main/Array/904_Fruit_Into_Baskets.py)
 - [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/), [solution](https://github.com/Typhoeus-Wang/leetcode/blob/main/Array/76_Minimum_Window_Substring.py)
 - [59. Spiral Matrix 2](https://leetcode.com/problems/spiral-matrix-ii/), [solution](https://github.com/Typhoeus-Wang/leetcode/blob/main/Array/59_Spiral_Matrix_2.py)
-- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/), [solution](https://github.com/Typhoeus-Wang/leetcode/blob/main/Array/59_Spiral_Matrix.py)
+- [54. Spiral Matrix](https://leetcode.com/problems/spiral-matrix/), [solution](https://github.com/Typhoeus-Wang/leetcode/blob/main/Array/54_Spiral_Matrix.py)
